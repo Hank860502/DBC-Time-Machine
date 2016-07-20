@@ -2,7 +2,7 @@
 My First app program in Swift
 
 ##What is this app doing? 
-This app can convert user's actual age to DBC calculate base
+Converts user's actual age to DBC age
 
  
 ##Screenshots of the app 
